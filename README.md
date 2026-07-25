@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # task1_app
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Task1
+Profile Card App — a 5-screen Flutter UI flow (login, sign up, home, profile detail, edit profile) built for learning Dart &amp; Flutter fundamentals.
+>>>>>>> 833b3bda72d6fb07f76c6c772d6aea5455341dec
